@@ -17,7 +17,7 @@ Predict the outcomes of the FIFA Club World Cup matches from the group stage to 
 
 ## Hosting
 
-This project is hosted on GitHub Pages.
+This project is hosted on GitHub Pages: [FIFA Club World Cup Predictor](https://apex4710.github.io/club-world-cup-predictor/)
 
 ## License
 
